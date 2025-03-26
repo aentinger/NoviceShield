@@ -6,7 +6,7 @@
 
 # 📸 Image
 
-![LXRobotics P13 Novice Shield](https://raw.githubusercontent.com/lxrobotics/NoviceShield/master/images/novice-shield-side-small.jpg)
+![LXRobotics P13 Novice Shield](images/novice-shield-side-small.jpg)
 
 # 📂 Description
 
